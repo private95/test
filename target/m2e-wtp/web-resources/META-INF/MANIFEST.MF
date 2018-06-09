@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: homepage
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 翻过山和大海
+Implementation-Vendor-Id: com.ly
+Build-Jdk: 1.8.0_31
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/homepage
+Created-By: Maven Integration for Eclipse
+
